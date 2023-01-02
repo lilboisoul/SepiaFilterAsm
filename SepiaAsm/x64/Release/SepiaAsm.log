@@ -1,0 +1,4 @@
+﻿  Assembling SepiaAsm.asm...
+     Creating library C:\Users\kdusz\source\repos\JA_Sepia\x64\Release\SepiaAsm.lib and object C:\Users\kdusz\source\repos\JA_Sepia\x64\Release\SepiaAsm.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  SepiaAsm.vcxproj -> C:\Users\kdusz\source\repos\JA_Sepia\x64\Release\SepiaAsm.dll

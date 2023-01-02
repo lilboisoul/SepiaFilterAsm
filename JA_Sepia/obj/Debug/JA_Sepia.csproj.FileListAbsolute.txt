@@ -1,0 +1,15 @@
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\JA_Sepia.exe.config
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\JA_Sepia.exe
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\JA_Sepia.pdb
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\DotImaging.BitmapSourceInterop.dll
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\DotImaging.GenericImage.dll
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\DotImaging.BitmapSourceInterop.xml
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\DotImaging.GenericImage.xml
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\bin\Debug\DotImaging.Primitives2D.xml
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\obj\Debug\JA_Sepia.csproj.AssemblyReference.cache
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\obj\Debug\JA_Sepia.csproj.SuggestedBindingRedirects.cache
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\obj\Debug\JA_Sepia.csproj.CoreCompileInputs.cache
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\obj\Debug\JA_Sepia.csproj.CopyComplete
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\obj\Debug\JA_Sepia.exe
+C:\Users\kdusz\source\repos\JA_Sepia\JA_Sepia\obj\Debug\JA_Sepia.pdb
